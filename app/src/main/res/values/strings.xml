@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CongestionCharge</string>
+    <string name="vehicle_type">Vehicle Type:</string>
+    <string name="start_date">Start Date:</string>
+    <string name="finish_date">Finish Date:</string>
+    <string name="set_start_date">Set Start Date</string>
+    <string name="set_finish_date">Set Finish Date</string>
+    <string name="calculate">Calculate</string>
+</resources>
